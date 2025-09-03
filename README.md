@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning nginx and linux
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me info@stefanopesce.it
-- 😄 Pronouns: he i guess
-- ⚡ Fun fact: i have no CS degree
 
 <!---
 stefano-psc/stefano-psc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
